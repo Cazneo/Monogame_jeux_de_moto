@@ -1,0 +1,2 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Monogame/projet_jeux_moto/projet_jeux_moto/Content/Musique.mp3","C:/Monogame/projet_jeux_moto/projet_jeux_moto/Content/bin/Windows/Musique.xnb","SongProcessor","SongContent",5656378,125,1,5345451
